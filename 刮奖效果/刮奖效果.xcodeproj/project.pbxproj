@@ -13,6 +13,8 @@
 		F0E0CE9F2306832000A65FF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0E0CE9E2306832000A65FF5 /* Assets.xcassets */; };
 		F0E0CEA22306832000A65FF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0E0CEA02306832000A65FF5 /* LaunchScreen.storyboard */; };
 		F0E0CEA52306832000A65FF5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E0CEA42306832000A65FF5 /* main.m */; };
+		F0E0CEAD230685F000A65FF5 /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0E0CEAB230685EF00A65FF5 /* image.jpg */; };
+		F0E0CEAE230685F000A65FF5 /* realImage.png in Resources */ = {isa = PBXBuildFile; fileRef = F0E0CEAC230685F000A65FF5 /* realImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		F0E0CEA12306832000A65FF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0E0CEA32306832000A65FF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0E0CEA42306832000A65FF5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F0E0CEAB230685EF00A65FF5 /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
+		F0E0CEAC230685F000A65FF5 /* realImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = realImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 		F0E0CE942306831F00A65FF5 /* 刮奖效果 */ = {
 			isa = PBXGroup;
 			children = (
+				F0E0CEAB230685EF00A65FF5 /* image.jpg */,
+				F0E0CEAC230685F000A65FF5 /* realImage.png */,
 				F0E0CE952306831F00A65FF5 /* AppDelegate.h */,
 				F0E0CE962306831F00A65FF5 /* AppDelegate.m */,
 				F0E0CE982306831F00A65FF5 /* ViewController.h */,
@@ -131,6 +137,8 @@
 				F0E0CEA22306832000A65FF5 /* LaunchScreen.storyboard in Resources */,
 				F0E0CE9F2306832000A65FF5 /* Assets.xcassets in Resources */,
 				F0E0CE9D2306831F00A65FF5 /* Main.storyboard in Resources */,
+				F0E0CEAE230685F000A65FF5 /* realImage.png in Resources */,
+				F0E0CEAD230685F000A65FF5 /* image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
